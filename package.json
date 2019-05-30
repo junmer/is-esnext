@@ -1,0 +1,29 @@
+{
+  "name": "is-esnext",
+  "version": "0.0.1",
+  "description": "Check if a string or buffer is esnext",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "junmer",
+  "license": "MIT",
+  "keywords": [
+    "esnext",
+    "detect",
+    "check",
+    "is",
+    "string",
+    "buffer"
+  ],
+  "dependencies": {
+    "cherow": "^1.6.9",
+    "eslint": "^5.16.0"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1"
+  }
+}
